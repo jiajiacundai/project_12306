@@ -1,4 +1,4 @@
-# 从https://blog.csdn.net/qq_41137110/article/details/107185959克隆
+# 来源： https://blog.csdn.net/qq_41137110/article/details/107185959
 #query_ticket.py 车票查询源码（无票价信息）
 
 #add_price_query_ticket.py 车票查询源码（有票价信息）
